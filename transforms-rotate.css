@@ -1,0 +1,24 @@
+div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+div>p {
+    text-align: center;
+    padding-top: 20px;
+}
+div.mydiv {
+    transform: rotate(200deg);
+}
+.text {
+    margin-left: 40px;
+}
+.mydiv3 {
+    transform: translate(0,-210px);
+    opacity: 0.5;
+    background-color: white;
+    border: none;
+}
